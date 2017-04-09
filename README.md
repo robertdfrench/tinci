@@ -1,7 +1,8 @@
 # tinci
 
 *Minimal, Inexpensive CI Server*
-Inspired by minimalist concepts from [Christopher Fredén's original work](https://github.com/icetan/tinci) and [Tomasz Maczukin's excellent Gitlab CI Runner](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner).
+
+Inspired by [Christopher Fredén's original work](https://github.com/icetan/tinci) and [Tomasz Maczukin's excellent Gitlab CI Runner](https://gitlab.com/gitlab-org/gitlab-ci-multi-runner).
 
 ## Goals
 
